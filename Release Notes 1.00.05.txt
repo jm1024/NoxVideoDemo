@@ -1,0 +1,10 @@
+Video Demo 1.00.05
+
+This is a BETA
+
+-------------------------------------
+Notes:
+-------------------------------------
+- Eliminates logo on all screens
+- Enter in a settings dialog saves
+

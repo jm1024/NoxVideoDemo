@@ -1,0 +1,14 @@
+C:\Users\James\Dropbox\Source\Custom\VideoDemo\WalkUpDemo\bin\Release\VideoDemo.exe
+C:\Users\James\Dropbox\Source\Custom\VideoDemo\WalkUpDemo\bin\Release\VideoDemo.pdb
+C:\Users\James\Dropbox\Source\Custom\VideoDemo\WalkUpDemo\obj\x86\Release\VideoDemo.frmMain.resources
+C:\Users\James\Dropbox\Source\Custom\VideoDemo\WalkUpDemo\obj\x86\Release\VideoDemo.HistoryList.resources
+C:\Users\James\Dropbox\Source\Custom\VideoDemo\WalkUpDemo\obj\x86\Release\VideoDemo.NameDisplayList.resources
+C:\Users\James\Dropbox\Source\Custom\VideoDemo\WalkUpDemo\obj\x86\Release\VideoDemo.Properties.Resources.resources
+C:\Users\James\Dropbox\Source\Custom\VideoDemo\WalkUpDemo\obj\x86\Release\VideoDemo.settingsForm.resources
+C:\Users\James\Dropbox\Source\Custom\VideoDemo\WalkUpDemo\obj\x86\Release\VideoDemo.VideoDisplay.resources
+C:\Users\James\Dropbox\Source\Custom\VideoDemo\WalkUpDemo\obj\x86\Release\VideoDemo.VideoPlayback.resources
+C:\Users\James\Dropbox\Source\Custom\VideoDemo\WalkUpDemo\obj\x86\Release\VideoDemo.csproj.GenerateResource.Cache
+C:\Users\James\Dropbox\Source\Custom\VideoDemo\WalkUpDemo\obj\x86\Release\VideoDemo.exe
+C:\Users\James\Dropbox\Source\Custom\VideoDemo\WalkUpDemo\obj\x86\Release\VideoDemo.pdb
+C:\Users\James\Dropbox\Source\Custom\VideoDemo\WalkUpDemo\obj\x86\Release\VideoDemo.csprojResolveAssemblyReference.cache
+C:\Users\James\Dropbox\Source\Custom\VideoDemo\WalkUpDemo\obj\x86\Release\VideoDemo.frmMessage.resources

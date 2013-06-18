@@ -1,0 +1,15 @@
+Video Demo 1.00.02
+
+This is a BETA
+
+-------------------------------------
+Notes:
+-------------------------------------
+- Uses delegates to wrap the .net PictureBox control .Image set which is not thread safe
+- Tacks FPS to (end image date - begin image date) / images
+- Maintains the logo box instead of overwriting with video
+
+-------------------------------------
+Testing Notes:
+-------------------------------------
+- none

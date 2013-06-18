@@ -1,0 +1,17 @@
+Video Demo 1.00.04
+
+This is a BETA
+
+-------------------------------------
+Notes:
+-------------------------------------
+- On touch zone when there are 2 badges it should be much less prone to switching between the 2
+- Shuts down cleanly
+- Only loads ids where name != id
+- Main form is now locked
+- Portrait mode now correctly only displays 8 images
+- No logo in portrait mode
+- Logo in touch mode replaced with another video - we can discuss other options
+Saves/loads settings (file is settings.txt)
+
+

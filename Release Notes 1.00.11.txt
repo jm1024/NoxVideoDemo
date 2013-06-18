@@ -1,0 +1,8 @@
+Video Demo 1.00.11
+
+This is a BETA
+
+-------------------------------------
+Notes:
+-------------------------------------
+- Reduces font size for bottom text on images and repositions it to adjust for the new size

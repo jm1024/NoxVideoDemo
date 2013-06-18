@@ -1,0 +1,9 @@
+Video Demo 1.00.08
+
+This is a BETA
+
+-------------------------------------
+Notes:
+-------------------------------------
+- Re-enables logo in center box. This can be used for signs trolling people to hold their badge up to the screen, pictures of cats, whatever.
+

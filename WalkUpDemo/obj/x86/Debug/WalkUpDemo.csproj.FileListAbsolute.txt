@@ -1,0 +1,49 @@
+C:\Users\Eric\Dropbox\Development\WalkUpDemo\WalkUpDemo\bin\Debug\WalkUpDemo.exe
+C:\Users\Eric\Dropbox\Development\WalkUpDemo\WalkUpDemo\bin\Debug\WalkUpDemo.pdb
+C:\Users\Eric\Dropbox\Development\WalkUpDemo\WalkUpDemo\obj\x86\Debug\WalkUpDemo.frmMain.resources
+C:\Users\Eric\Dropbox\Development\WalkUpDemo\WalkUpDemo\obj\x86\Debug\WalkUpDemo.NameDisplayList.resources
+C:\Users\Eric\Dropbox\Development\WalkUpDemo\WalkUpDemo\obj\x86\Debug\WalkUpDemo.Properties.Resources.resources
+C:\Users\Eric\Dropbox\Development\WalkUpDemo\WalkUpDemo\obj\x86\Debug\WalkUpDemo.VideoDisplay.resources
+C:\Users\Eric\Dropbox\Development\WalkUpDemo\WalkUpDemo\obj\x86\Debug\WalkUpDemo.csproj.GenerateResource.Cache
+C:\Users\Eric\Dropbox\Development\WalkUpDemo\WalkUpDemo\obj\x86\Debug\WalkUpDemo.exe
+C:\Users\Eric\Dropbox\Development\WalkUpDemo\WalkUpDemo\obj\x86\Debug\WalkUpDemo.pdb
+K:\Dropbox\Development\WalkUpDemo\WalkUpDemo\obj\x86\Debug\WalkUpDemo.exe
+K:\Dropbox\Development\WalkUpDemo\WalkUpDemo\obj\x86\Debug\WalkUpDemo.pdb
+K:\Dropbox\Development\WalkUpDemo\WalkUpDemo\bin\Debug\WalkUpDemo.exe
+K:\Dropbox\Development\WalkUpDemo\WalkUpDemo\bin\Debug\WalkUpDemo.pdb
+K:\Dropbox\Development\WalkUpDemo\WalkUpDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+K:\Dropbox\Development\WalkUpDemo\WalkUpDemo\obj\x86\Debug\WalkUpDemo.frmMain.resources
+K:\Dropbox\Development\WalkUpDemo\WalkUpDemo\obj\x86\Debug\WalkUpDemo.NameDisplayList.resources
+K:\Dropbox\Development\WalkUpDemo\WalkUpDemo\obj\x86\Debug\WalkUpDemo.Properties.Resources.resources
+K:\Dropbox\Development\WalkUpDemo\WalkUpDemo\obj\x86\Debug\WalkUpDemo.VideoDisplay.resources
+K:\Dropbox\Development\WalkUpDemo\WalkUpDemo\obj\x86\Debug\GenerateResource.read.1.tlog
+K:\Dropbox\Development\WalkUpDemo\WalkUpDemo\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Eric\Dropbox\Development\WalkUpDemo\WalkUpDemo\obj\x86\Debug\WalkUpDemo.csprojResolveAssemblyReference.cache
+C:\Users\Eric\Dropbox\Development\WalkUpDemo\WalkUpDemo\obj\x86\Debug\WalkUpDemo.VideoPlayback.resources
+C:\Users\Eric\Dropbox\Development\WalkUpDemo\WalkUpDemo\obj\x86\Debug\WalkUpDemo.HistoryList.resources
+C:\Users\Eric\Dropbox\Development\WalkUpDemo\WalkUpDemo\obj\x86\Debug\WalkUpDemo.settingsForm.resources
+C:\Users\James\Dropbox\Source\Custom\RFID Journal Demo\WalkUpDemo\WalkUpDemo\obj\x86\Debug\WalkUpDemo.exe
+C:\Users\James\Dropbox\Source\Custom\RFID Journal Demo\WalkUpDemo\WalkUpDemo\obj\x86\Debug\WalkUpDemo.pdb
+C:\Users\James\Dropbox\Source\Custom\RFID Journal Demo\WalkUpDemo\WalkUpDemo\bin\Debug\WalkUpDemo.exe
+C:\Users\James\Dropbox\Source\Custom\RFID Journal Demo\WalkUpDemo\WalkUpDemo\bin\Debug\WalkUpDemo.pdb
+C:\Users\James\Dropbox\Source\Custom\RFID Journal Demo\WalkUpDemo\WalkUpDemo\obj\x86\Debug\WalkUpDemo.csprojResolveAssemblyReference.cache
+C:\Users\James\Dropbox\Source\Custom\RFID Journal Demo\WalkUpDemo\WalkUpDemo\obj\x86\Debug\WalkUpDemo.frmMain.resources
+C:\Users\James\Dropbox\Source\Custom\RFID Journal Demo\WalkUpDemo\WalkUpDemo\obj\x86\Debug\WalkUpDemo.HistoryList.resources
+C:\Users\James\Dropbox\Source\Custom\RFID Journal Demo\WalkUpDemo\WalkUpDemo\obj\x86\Debug\WalkUpDemo.NameDisplayList.resources
+C:\Users\James\Dropbox\Source\Custom\RFID Journal Demo\WalkUpDemo\WalkUpDemo\obj\x86\Debug\WalkUpDemo.Properties.Resources.resources
+C:\Users\James\Dropbox\Source\Custom\RFID Journal Demo\WalkUpDemo\WalkUpDemo\obj\x86\Debug\WalkUpDemo.settingsForm.resources
+C:\Users\James\Dropbox\Source\Custom\RFID Journal Demo\WalkUpDemo\WalkUpDemo\obj\x86\Debug\WalkUpDemo.VideoDisplay.resources
+C:\Users\James\Dropbox\Source\Custom\RFID Journal Demo\WalkUpDemo\WalkUpDemo\obj\x86\Debug\WalkUpDemo.VideoPlayback.resources
+C:\Users\James\Dropbox\Source\Custom\RFID Journal Demo\WalkUpDemo\WalkUpDemo\obj\x86\Debug\WalkUpDemo.csproj.GenerateResource.Cache
+C:\Users\James\Dropbox\Source\Custom\WalkUpDemo\WalkUpDemo\bin\Debug\WalkUpDemo.exe
+C:\Users\James\Dropbox\Source\Custom\WalkUpDemo\WalkUpDemo\bin\Debug\WalkUpDemo.pdb
+C:\Users\James\Dropbox\Source\Custom\WalkUpDemo\WalkUpDemo\obj\x86\Debug\WalkUpDemo.frmMain.resources
+C:\Users\James\Dropbox\Source\Custom\WalkUpDemo\WalkUpDemo\obj\x86\Debug\WalkUpDemo.HistoryList.resources
+C:\Users\James\Dropbox\Source\Custom\WalkUpDemo\WalkUpDemo\obj\x86\Debug\WalkUpDemo.NameDisplayList.resources
+C:\Users\James\Dropbox\Source\Custom\WalkUpDemo\WalkUpDemo\obj\x86\Debug\WalkUpDemo.Properties.Resources.resources
+C:\Users\James\Dropbox\Source\Custom\WalkUpDemo\WalkUpDemo\obj\x86\Debug\WalkUpDemo.settingsForm.resources
+C:\Users\James\Dropbox\Source\Custom\WalkUpDemo\WalkUpDemo\obj\x86\Debug\WalkUpDemo.VideoDisplay.resources
+C:\Users\James\Dropbox\Source\Custom\WalkUpDemo\WalkUpDemo\obj\x86\Debug\WalkUpDemo.VideoPlayback.resources
+C:\Users\James\Dropbox\Source\Custom\WalkUpDemo\WalkUpDemo\obj\x86\Debug\WalkUpDemo.csproj.GenerateResource.Cache
+C:\Users\James\Dropbox\Source\Custom\WalkUpDemo\WalkUpDemo\obj\x86\Debug\WalkUpDemo.exe
+C:\Users\James\Dropbox\Source\Custom\WalkUpDemo\WalkUpDemo\obj\x86\Debug\WalkUpDemo.pdb

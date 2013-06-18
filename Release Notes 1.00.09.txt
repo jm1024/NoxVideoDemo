@@ -1,0 +1,8 @@
+Video Demo 1.00.09
+
+This is a BETA
+
+-------------------------------------
+Notes:
+-------------------------------------
+- Adds settings for Video Seconds Pre event and Video Seconds Post Event

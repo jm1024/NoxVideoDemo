@@ -1,0 +1,28 @@
+C:\Users\Eric\Dropbox\Development\WalkUpDemo\WalkUpDemo\bin\Release\WalkUpDemo.exe
+C:\Users\Eric\Dropbox\Development\WalkUpDemo\WalkUpDemo\bin\Release\WalkUpDemo.pdb
+C:\Users\Eric\Dropbox\Development\WalkUpDemo\WalkUpDemo\obj\x86\Release\WalkUpDemo.frmMain.resources
+C:\Users\Eric\Dropbox\Development\WalkUpDemo\WalkUpDemo\obj\x86\Release\WalkUpDemo.NameDisplayList.resources
+C:\Users\Eric\Dropbox\Development\WalkUpDemo\WalkUpDemo\obj\x86\Release\WalkUpDemo.Properties.Resources.resources
+C:\Users\Eric\Dropbox\Development\WalkUpDemo\WalkUpDemo\obj\x86\Release\WalkUpDemo.VideoDisplay.resources
+C:\Users\Eric\Dropbox\Development\WalkUpDemo\WalkUpDemo\obj\x86\Release\WalkUpDemo.VideoPlayback.resources
+C:\Users\Eric\Dropbox\Development\WalkUpDemo\WalkUpDemo\obj\x86\Release\WalkUpDemo.csproj.GenerateResource.Cache
+C:\Users\Eric\Dropbox\Development\WalkUpDemo\WalkUpDemo\obj\x86\Release\WalkUpDemo.exe
+C:\Users\Eric\Dropbox\Development\WalkUpDemo\WalkUpDemo\obj\x86\Release\WalkUpDemo.pdb
+C:\Users\Eric\Dropbox\Development\WalkUpDemo\WalkUpDemo\obj\x86\Release\WalkUpDemo.csprojResolveAssemblyReference.cache
+C:\Users\Eric\Dropbox\Development\WalkUpDemo\WalkUpDemo\obj\x86\Release\WalkUpDemo.HistoryList.resources
+C:\Users\Eric\Dropbox\Development\WalkUpDemo\WalkUpDemo\obj\x86\Release\WalkUpDemo.settingsForm.resources
+C:\Users\James\Dropbox\Source\Custom\RFID Journal Demo\WalkUpDemo\WalkUpDemo\obj\x86\Release\WalkUpDemo.exe
+C:\Users\James\Dropbox\Source\Custom\RFID Journal Demo\WalkUpDemo\WalkUpDemo\obj\x86\Release\WalkUpDemo.pdb
+C:\Users\James\Dropbox\Source\Custom\RFID Journal Demo\WalkUpDemo\WalkUpDemo\bin\Release\WalkUpDemo.exe
+C:\Users\James\Dropbox\Source\Custom\RFID Journal Demo\WalkUpDemo\WalkUpDemo\bin\Release\WalkUpDemo.pdb
+C:\Users\James\Dropbox\Source\Custom\RFID Journal Demo\WalkUpDemo\WalkUpDemo\obj\x86\Release\WalkUpDemo.csprojResolveAssemblyReference.cache
+C:\Users\James\Dropbox\Source\Custom\RFID Journal Demo\WalkUpDemo\WalkUpDemo\obj\x86\Release\WalkUpDemo.frmMain.resources
+C:\Users\James\Dropbox\Source\Custom\RFID Journal Demo\WalkUpDemo\WalkUpDemo\obj\x86\Release\WalkUpDemo.HistoryList.resources
+C:\Users\James\Dropbox\Source\Custom\RFID Journal Demo\WalkUpDemo\WalkUpDemo\obj\x86\Release\WalkUpDemo.NameDisplayList.resources
+C:\Users\James\Dropbox\Source\Custom\RFID Journal Demo\WalkUpDemo\WalkUpDemo\obj\x86\Release\WalkUpDemo.Properties.Resources.resources
+C:\Users\James\Dropbox\Source\Custom\RFID Journal Demo\WalkUpDemo\WalkUpDemo\obj\x86\Release\WalkUpDemo.settingsForm.resources
+C:\Users\James\Dropbox\Source\Custom\RFID Journal Demo\WalkUpDemo\WalkUpDemo\obj\x86\Release\WalkUpDemo.VideoDisplay.resources
+C:\Users\James\Dropbox\Source\Custom\RFID Journal Demo\WalkUpDemo\WalkUpDemo\obj\x86\Release\WalkUpDemo.VideoPlayback.resources
+C:\Users\James\Dropbox\Source\Custom\RFID Journal Demo\WalkUpDemo\WalkUpDemo\obj\x86\Release\WalkUpDemo.csproj.GenerateResource.Cache
+C:\Users\James\Dropbox\Source\Custom\WalkUpDemo\WalkUpDemo\obj\x86\Release\WalkUpDemo.exe
+C:\Users\James\Dropbox\Source\Custom\WalkUpDemo\WalkUpDemo\obj\x86\Release\WalkUpDemo.pdb

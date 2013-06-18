@@ -1,0 +1,6 @@
+host=192.168.0.51:2090
+zone=Lilin
+touchZone=TouchX
+enableNames=True
+secondsPre=5
+secondsPost=10

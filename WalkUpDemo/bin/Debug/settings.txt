@@ -1,0 +1,6 @@
+host=192.168.76.240:2090
+zone=Station2
+touchZone=t
+enableNames=True
+secondsPre=2
+secondsPost=3

@@ -1,0 +1,9 @@
+Video Demo 1.00.10
+
+This is a BETA
+
+-------------------------------------
+Notes:
+-------------------------------------
+- Reduces font size for bottom text on images and repositions it to adjust for the new size
+- Forces an additional image update to the lighter image when switching context between near and far zones

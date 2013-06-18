@@ -1,0 +1,8 @@
+Video Demo 1.00.14
+
+This is a BETA
+
+-------------------------------------
+Notes:
+-------------------------------------
+- Reduces location/time line from 14pt to 13 and repositions the line

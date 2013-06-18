@@ -1,0 +1,8 @@
+Video Demo 1.00.12
+
+This is a BETA
+
+-------------------------------------
+Notes:
+-------------------------------------
+- Removes warning message when logos directory can not be found

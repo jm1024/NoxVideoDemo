@@ -1,0 +1,10 @@
+Video Demo 1.00.13
+
+This is a BETA
+
+-------------------------------------
+Notes:
+-------------------------------------
+- Fixes a problem where some images would fade too darkly
+- Changes server poll timing to help prevent flicker and possibly help with switch delays
+- videoControl.lighter() returns a new image instead of modifying the original

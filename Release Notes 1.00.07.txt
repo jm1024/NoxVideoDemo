@@ -1,0 +1,9 @@
+Video Demo 1.00.07
+
+This is a BETA
+
+-------------------------------------
+Notes:
+-------------------------------------
+- Sets seconds pre and post to look for video from -2/+2 to -5/+10. This avoids problems where the history event says there's video but the video falls outside of the -2/+2 timeframe specified
+

@@ -1,0 +1,17 @@
+Video Demo 1.00.01
+
+This is a BETA
+
+-------------------------------------
+Notes:
+-------------------------------------
+- Renamed to VideoDemo - walkup demo will be the individual person demo
+- Binaries are in /Development/Demos/Video Demo
+- Sizes and orients correctly based on screen geometry. In portrait mode will display 2 columns, 4 rows
+- Cleans up a resource lock problem
+- Reduces bandwidth and CPU
+
+-------------------------------------
+Testing Notes:
+-------------------------------------
+- none
